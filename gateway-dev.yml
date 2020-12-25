@@ -45,4 +45,4 @@ hystrix:
             timeoutInMilliseconds: 5000  #设置API网关中路由转发请求的HystrixCommand执行超时时间
 
 test:
-  name: admin
+  name: admin123
